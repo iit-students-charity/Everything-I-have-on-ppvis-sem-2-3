@@ -1,0 +1,69 @@
+﻿  Pivas4C.cpp
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(306): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(303): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(530): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Node_Iterator::getIncidentEdges(void)"
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(486): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<std::string>::Node_Iterator"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(288): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(285): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(525): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::Node_Iterator::getAdjacentNodes(void)"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(267): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(266): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(501): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::Node_Iterator::next(void)"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(247): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(245): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(462): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::showEdges(void)"
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(361): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<std::string>"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(239): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(237): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(448): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::showNodes(void)"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(233): warning C4267: return: преобразование из "size_t" в "short"; возможна потеря данных
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(232): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(434): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::countOfEdges(void)"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(229): warning C4267: return: преобразование из "size_t" в "short"; возможна потеря данных
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(228): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(434): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::countOfNodes(void)"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(202): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(545): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::isNodeExist(T)"
+          with
+          [
+              T=std::string
+          ]
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(191): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(190): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(606): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::isEdgeExist(T,T)"
+          with
+          [
+              T=std::string
+          ]
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(169): warning C4018: >=: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(157): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(427): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::edgesFromFile(std::string)"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(138): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(471): note: выполняется компиляция ссылки на экземпляр шаблон функции "short Graph<std::string>::nodeDegree(T)"
+          with
+          [
+              T=std::string
+          ]
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(127): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(419): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteEdge(T,T)"
+          with
+          [
+              T=std::string
+          ]
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(91): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(86): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(403): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteNode(T)"
+          with
+          [
+              T=std::string
+          ]
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(180): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(179): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(308): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<std::string>::isEdgeExist(short,short)"
+c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(118): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(117): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\ramby\source\repos\pivas4c\pivas4c\pivas4c.cpp(95): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::deleteEdge(short,short)"
+  Pivas4C.vcxproj -> C:\Users\ramby\source\repos\Pivas4C\Debug\Pivas4C.exe

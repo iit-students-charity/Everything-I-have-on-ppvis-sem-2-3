@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pivas4C", "Pivas4C\Pivas4C.vcxproj", "{6546DA17-2920-42A6-AB44-C31B8A06CA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Debug|x64.ActiveCfg = Debug|x64
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Debug|x64.Build.0 = Debug|x64
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Debug|x86.ActiveCfg = Debug|Win32
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Debug|x86.Build.0 = Debug|Win32
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Release|x64.ActiveCfg = Release|x64
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Release|x64.Build.0 = Release|x64
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Release|x86.ActiveCfg = Release|Win32
+		{6546DA17-2920-42A6-AB44-C31B8A06CA50}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A656FEA-86A6-406E-A9A4-8695DCF6B6F0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  Pivas2.cpp
+c:\users\ramby\source\repos\pivas2\pivas2\weapon.h(63): warning C4250: Weaponry::WunderWaffe: наследуется "Weaponry::AssultRifle::Weaponry::AssultRifle::fireOnce" через превосходство
+  c:\users\ramby\source\repos\pivas2\pivas2\weapon.h(29): note:  см. объявление "Weaponry::AssultRifle::fireOnce"
+c:\users\ramby\source\repos\pivas2\pivas2\pivas2.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pivas2.vcxproj -> C:\Users\ramby\source\repos\Pivas2\Debug\Pivas2.exe

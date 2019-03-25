@@ -1,0 +1,15 @@
+﻿  MyGraph.cpp
+c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(5): error C2955: "MyGraph": для использования класс шаблон требуется список аргументов шаблон
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.h(4): note:  см. объявление "MyGraph"
+c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(6): error C2244: MyGraph::MyGraph: не удается сопоставить определение функции существующему объявлению
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(5): note:  см. объявление "MyGraph::MyGraph"
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(6): note: определение
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(6): note: 'MyGraph::MyGraph(void)'
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(6): note: существующие объявления
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(6): note: 'MyGraph<data>::MyGraph(void)'
+c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(11): error C2244: MyGraph::~MyGraph: не удается сопоставить определение функции существующему объявлению
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(10): note:  см. объявление "MyGraph::~MyGraph"
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(11): note: определение
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(11): note: 'MyGraph::~MyGraph(void)'
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(11): note: существующие объявления
+  c:\users\ramby\source\repos\pivas4\pivas4\mygraph.cpp(11): note: 'MyGraph<data>::~MyGraph(void)'

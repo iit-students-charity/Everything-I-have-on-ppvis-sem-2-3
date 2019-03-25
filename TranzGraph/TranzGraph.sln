@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TranzGraph", "TranzGraph\TranzGraph.vcxproj", "{495E11EF-36E5-4228-B6F9-1D933406E294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Debug|x64.ActiveCfg = Debug|x64
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Debug|x64.Build.0 = Debug|x64
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Debug|x86.ActiveCfg = Debug|Win32
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Debug|x86.Build.0 = Debug|Win32
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Release|x64.ActiveCfg = Release|x64
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Release|x64.Build.0 = Release|x64
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Release|x86.ActiveCfg = Release|Win32
+		{495E11EF-36E5-4228-B6F9-1D933406E294}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE4D1CE-3BB2-4376-A052-073DB2699884}
+	EndGlobalSection
+EndGlobal
